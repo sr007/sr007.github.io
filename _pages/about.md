@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-Dr. Sunny Rai
-School of Engineering Sciences, Mahindra Ecole Centrale
+<b>Dr. Sunny Rai,
+School of Engineering Sciences, Mahindra Ecole Centrale</b>
 
 Dr. Sunny Rai is Asst. Professor in Computer Science & Engineering Department at Mahindra University (Formerly École Centrale School of Engineering). She has done Ph.D. in Computer Engineering from Netaji Subhas Institute of Technology, Delhi University. Her thesis top was Computational Metaphor Processing in English Language. She has over 5 years of academic teaching experience and is actively engaged in research in the field of NLP, Computational Metaphor processing, Linguistics, Social Computing
 
