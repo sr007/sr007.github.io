@@ -10,6 +10,9 @@
 <loc>http://localhost:4000/categories/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/courses/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/getting-started/</loc>
 </url>
 <url>
